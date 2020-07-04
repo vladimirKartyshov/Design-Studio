@@ -7,6 +7,7 @@
 
 body {
 	color: #23196F;
+	background-color: #e9ecef;
 	font: 400 14px/1 'Roboto', sans-serif;
 }
 
@@ -108,7 +109,7 @@ img {
 #header {
 	padding: 20px 0;
 	border-bottom: 2px solid #00e9ba;
-	background-color: #ffffff;
+	background-color: #e9ecef;
 	box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
 }
 
