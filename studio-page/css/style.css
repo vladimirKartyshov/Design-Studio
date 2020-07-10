@@ -75,12 +75,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .main-header-nav a + a,
 .info-header-nav a + a {
-  margin-left: 30px;
-}
-
-.info-header-nav {
-  color: rgba(255, 255, 255, 0.8);
-  margin-left: auto;
+  margin-left: 70px;
 }
 
 .inner {
