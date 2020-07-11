@@ -1,27 +1,29 @@
 .maincontainer{
     margin-top: 3rem;
-    background: antiquewhite;
+    /*background: antiquewhite;*/
+    background-color: #6972f4;
 }
 
-.header-nav {
-    font-size: 16px;
-    font-weight: 700;
-}
+/*.header-nav {*/
+/*    font-size: 16px;*/
+/*    font-weight: 700;*/
+/*}*/
 
-.header-nav {
-    text-transform: capitalize;
-}
+/*.header-nav {*/
+/*    text-transform: capitalize;*/
+/*}*/
 
-.header-nav {
-    margin-left: 600px;
-}
+/*.header-nav {*/
+/*    margin-left: 600px;*/
+/*}*/
 
-.header-nav a:hover {
-    color: #00e9ba;
-}
+/*.header-nav a:hover {*/
+/*    color: #00e9ba;*/
+/*}*/
 
 .header-nav1{
-    margin-left: 2rem;
+    margin-left: 100px;
+    margin-top: 1rem;
     font-size: 16px;
     font-weight: 700;
 }
