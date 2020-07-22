@@ -55,8 +55,11 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .btn-default {
   background-color: #fff;
-  box-shadow: 0px 4px 20px #0F064C;
-  color: #0F064C;
+  /*box-shadow: 0px 4px 20px #0F064C;*/
+  box-shadow: 0px 4px 20px  #6972f4;
+  /*!*color: #0F064C;*!*/
+  color: #6972f4;
+  /*color: #36a7b9*/
 }
 
 .header {

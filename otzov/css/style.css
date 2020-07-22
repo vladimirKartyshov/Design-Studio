@@ -1,8 +1,16 @@
 
+.header-nav1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-right: 5rem;
+}
+
 .maincontainer{
     margin-top: 3rem;
     /*background: antiquewhite;*/
     background-color: #6972f4;
+    /*background-color: #132442;*/
 }
 
 /*.header-nav {*/

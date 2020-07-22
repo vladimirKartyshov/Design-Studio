@@ -110,8 +110,8 @@ img {
 	font-weight: 700;
 }
 
-.header-nav a {
-	text-transform: capitalize;
+.header-nav2{
+	margin-top: 0.5rem;
 }
 
 .header-nav a + a {
