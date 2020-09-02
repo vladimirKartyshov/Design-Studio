@@ -40,8 +40,9 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .container {
-  max-width: 1114px;
-  padding: 0 15px;
+  /*max-width: 1114px;*/
+  max-width: 100vh;
+  /*padding: 0 15px;*/
   margin: auto;
 }
 
@@ -84,24 +85,28 @@ p, h1, h2, h3, h4, h5, h6 {
 .inner {
   height: 100vh;
   min-height: 910px;
-  background: linear-gradient(89.79deg, #23196F 0.13%, #180D5B 99.88%);
+  width: 100vh;
+  /*background: linear-gradient(89.79deg, #23196F 0.13%, #180D5B 99.88%);*/
+  background: url("../img/leaves-5509797.png");
   padding-top: 106px;
 }
 
 .inner-call-to-action {
-  max-width: 545px;
+  max-width: 100vh;
   position: relative;
 }
 
 .inner-call-to-action::after {
   content: '';
-  width: 738px;
-  height: 611px;
-  background: url('../img/inner-bg.png') no-repeat;
-  position: absolute;
-  top: -100px;
-  right: -655px;
-  z-index: 0;
+  width: 100vh;
+  height: 900px;
+  /*background: url('../img/inner-bg.png') no-repeat;*/
+  /*background: url("../img/leaves-5509797.png");*/
+  /*background: #039be5;*/
+  /*position: absolute;*/
+  /*top: -100px;*/
+  /*right: -655px;*/
+  /*z-index: 0;*/
 }
 
 .call-to-action-title {
