@@ -1,16 +1,18 @@
+
 .icons-contacts {
     margin: auto;
-    margin-top: 4rem;
-    margin-bottom: 4rem;
-    letter-spacing: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    letter-spacing: 1rem;
     /*color: #2871bf;*/
     color: #6972f4;
     /*color: #36a7b9;*/
-    font-size: 28px;
+    font-size: 38px;
 }
 
-.contact-images{
-    margin: auto;
+.card-text{
+    color: #84470a;
+    font-size: 2rem;
 }
 
 
